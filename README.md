@@ -1,7 +1,7 @@
 # Tapsearch
 
 Deployed To Heroku link:<br>
-https://murmuring-reef-41092.herokuapp.com/send
+https://murmuring-reef-41092.herokuapp.com
 
 Click on The Options to Select to Upload PDF or insert Text<br>
 
